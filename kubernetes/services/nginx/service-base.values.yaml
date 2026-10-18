@@ -1,0 +1,4 @@
+namespace: nginx
+
+networkPolicy:
+  enabled: false
